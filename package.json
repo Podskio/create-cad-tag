@@ -2,16 +2,16 @@
   "name": "create-cad-tag",
   "version": "1.0.0",
   "description": "Generate computer aided dispatch system-style unit tags",
-  "homepage": "https://github.com/jpod32/create-cad-tag#readme",
+  "homepage": "https://github.com/Podskio/create-cad-tag#readme",
   "bugs": {
-    "url": "https://github.com/jpod32/create-cad-tag/issues"
+    "url": "https://github.com/Podskio/create-cad-tag/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jpod32/create-cad-tag.git"
+    "url": "https://github.com/Podskio/create-cad-tag.git"
   },
   "license": "MIT",
-  "author": "jpod32",
+  "author": "Podskio",
   "type": "module",
   "bin": "dist/bin.js",
   "files": [
